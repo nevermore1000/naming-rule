@@ -9,3 +9,4 @@
 6. 支付 `payment`
 7. 分期付款 `installment`
 8. 剩余金额 `balance`
+9. 头像 `portrait`
