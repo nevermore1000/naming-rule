@@ -10,3 +10,4 @@
 7. 分期付款 `installment`
 8. 剩余金额 `balance`
 9. 头像 `portrait`
+10. 性别 `gender`
